@@ -2,7 +2,7 @@
 
 
 
-<img src="/figure/model_w.png" alt="model" style="zoom:5%;" />
+<img src="/figure/model_w2.png" alt="model" style="zoom:5%;" />
 
 Experimental validation of ribonucleoprotein (RNP) complex structures demands extensive resources. This study proposes RNPDiffusion, a novel diffusion-based method for predicting RNA sequences that bind to well-characterized proteins, leveraging latent space embeddings from the RNA-FM model. This approach offers a promising alternative to traditional methods, accelerating RNA-based diagnostics and therapeutics development. RNPDiffusion demonstrates significant alignment with known sequences and accurate protein interactions, even with a lower recovery rate, indicating its potential for precise RNA sequence design in RNP complexes.
 
