@@ -12,9 +12,9 @@ Experimental validation of ribonucleoprotein (RNP) complex structures demands ex
 
 
 
-<img src="/figure/inference2.png" alt="inference2" style="zoom:33%;" />
+<img src="/figure/inference2.png" alt="inference2_w" style="zoom:33%;" />
 
-<img src="/figure/inference1.png" alt="inference1" style="zoom:33%;" />
+<img src="/figure/inference1.png" alt="inference1_w" style="zoom:33%;" />
 
 
 
